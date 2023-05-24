@@ -34,6 +34,7 @@ CareCoord is designed to enhance care coordination among all the participants co
 
 
 Features:
+
  The patient can register to the system and create his account.
 
  The patient can make an appointment from home.
@@ -47,6 +48,7 @@ Features:
  The patient can get that medicine from the pharmacy with the nurse.
 
 Setup
+
 follow the following steps to run the project.
 
 Clone this repo on your local machine.
@@ -59,10 +61,12 @@ Set Your Connection String in three files
 
 
 My team who Contributed in the project :
+
 Ayman Mohamed
 Mostafa Yousef
 Mohamed Adel
 
 Supervisors:
+
 Dr. Mai Ramadan
 Eng. Abdelghany Adel
