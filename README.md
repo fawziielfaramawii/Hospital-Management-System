@@ -33,7 +33,7 @@ CareCoord is designed to enhance care coordination among all the participants co
 
 
 
-Features:
+## Features:
 
  The patient can register to the system and create his account.
 
@@ -66,7 +66,7 @@ Set Your Connection String in three files.
 
 
 
-My team who Contributed in the project :
+## My team who Contributed in the project :
 
 1.Ayman Mohamed
 
@@ -83,7 +83,7 @@ My team who Contributed in the project :
 
 
 
-Supervisors:
+## Supervisors:
 
 Dr. Mai Ramadan
 
