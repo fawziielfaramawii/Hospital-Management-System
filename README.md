@@ -56,7 +56,7 @@ CareCoord is designed to enhance care coordination among all the participants co
 
 1.Ayman Mohamed
 
-2.Mostafa Yousef
+2.[Mostafa Yousef](https://github.com/Mostafay65)
 
 3.[Mohamed Adel](https://github.com/Mohamed-Adel23)
 
