@@ -47,20 +47,6 @@ CareCoord is designed to enhance care coordination among all the participants co
 
  The patient can get that medicine from the pharmacy with the nurse.
 
-Setup
-
-follow the following steps to run the project.
-
-Clone this repo on your local machine.
-
-Download .Net7 from .NET 7.0
-
-Restore the DataBase of the project (You can find the DataBase file.bak here)
-
-Set Your Connection String in three files.
-
-
-
 
 
 
@@ -73,7 +59,6 @@ Set Your Connection String in three files.
 2.Mostafa Yousef
 
 3.Mohamed Adel
-
 
 
 
