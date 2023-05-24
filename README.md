@@ -60,6 +60,12 @@ Restore the DataBase of the project (You can find the DataBase file.bak here)
 Set Your Connection String in three files.
 
 
+
+
+
+
+
+
 My team who Contributed in the project :
 
 1.Ayman Mohamed
@@ -67,6 +73,14 @@ My team who Contributed in the project :
 2.Mostafa Yousef
 
 3.Mohamed Adel
+
+
+
+
+
+
+
+
 
 
 Supervisors:
