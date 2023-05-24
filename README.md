@@ -31,12 +31,38 @@ CareCoord is designed to enhance care coordination among all the participants co
     - MS SQL Server
 
 
-Supervisors:
-  - Dr. Mai Ramadan
-  - Eng. Abdelghany Adel
 
-Contributors:
-  - Ayman Mohamed 
-  - Fawzy Shaker
-  - Mostafa Youssef
-  - Mohamed Adel
+
+Features:
+ The patient can register to the system and create his account.
+
+ The patient can make an appointment from home.
+
+ The system sent an email to the patient to confirm his email when he register and another email when he makes an appointment to tell him information about his appointment.
+
+ The project has an admin panel to have control over all doctors' and nurses' accounts, departments, and appointments.
+
+ Doctor can write a medicine to the patient in the prescription.
+
+ The patient can get that medicine from the pharmacy with the nurse.
+
+Setup
+follow the following steps to run the project.
+
+Clone this repo on your local machine.
+
+Download .Net7 from .NET 7.0
+
+Restore the DataBase of the project (You can find the DataBase file.bak here)
+
+Set Your Connection String in three files
+
+
+My team who Contributed in the project :
+Ayman Mohamed
+Mostafa Yousef
+Mohamed Adel
+
+Supervisors:
+Dr. Mai Ramadan
+Eng. Abdelghany Adel
