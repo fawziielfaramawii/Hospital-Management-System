@@ -57,16 +57,19 @@ Download .Net7 from .NET 7.0
 
 Restore the DataBase of the project (You can find the DataBase file.bak here)
 
-Set Your Connection String in three files
+Set Your Connection String in three files.
 
 
 My team who Contributed in the project :
+1.Ayman Mohamed
 
-Ayman Mohamed
-Mostafa Yousef
-Mohamed Adel
+2.Mostafa Yousef
+
+3.Mohamed Adel
+
 
 Supervisors:
 
 Dr. Mai Ramadan
+
 Eng. Abdelghany Adel
